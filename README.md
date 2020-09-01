@@ -1,4 +1,4 @@
-![Header](https://i.imgur.com/bUcST8d.png "Banner")
+![Header](https://github.com/antalandra/antalandra/blob/master/AndraBanner.png "Banner")
 
 ### 📚 My studies
 Stage 3 Computer Science at University College Dublin.
