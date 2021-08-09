@@ -3,8 +3,8 @@
 ### 📚 My studies
 Stage 3 Computer Science at University College Dublin.
 
-### 🔨 Project I am currently working on
-Completing a personal project called Advisify. The website implements a public advice API on a modern clean UI built with HTML, CSS and JavaScript ES6.
+### 🔨 What I am currently working on
+Completing a Software Engineering internship with Dell Technologies.
 
 ### 🖥️ Technologies I have worked with
 <p float="left">
