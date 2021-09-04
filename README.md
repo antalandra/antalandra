@@ -1,10 +1,10 @@
 ![Header](https://github.com/antalandra/antalandra/blob/master/AndraBanner.png "Banner")
 
 ### 📚 My studies
-Stage 3 Computer Science at University College Dublin.
+Final Year Computer Science at University College Dublin.
 
 ### 🔨 What I am currently working on
-Completing a Software Engineering internship with Dell Technologies.
+Completing my degree and improving coding skills.
 
 ### 🖥️ Technologies I have worked with
 <p float="left">
