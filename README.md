@@ -1,5 +1,3 @@
-![Header](https://github.com/antalandra/antalandra/blob/master/AndraBanner.png "Banner")
-
 ### 📚 My studies
 Final Year Computer Science at University College Dublin.
 
