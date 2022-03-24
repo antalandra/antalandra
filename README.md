@@ -9,7 +9,7 @@ Final Year Computer Science at University College Dublin.
 ### 🔨 What I am currently working on
 Completing my degree and improving coding skills.
 
-### 🖥️ Technologies I've enjoyed working with
+### 🖥️ Technologies I've enjoyed working with and/or using
 <p float="left">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -37,8 +37,6 @@ Completing my degree and improving coding skills.
 
 ### 🌱 Some of my current interests
 * Roller skating
-* Environmental concerns
-* Bullet journaling
 * Sustainable fashion
 
 ### 📱 Social
