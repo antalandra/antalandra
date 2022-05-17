@@ -1,15 +1,15 @@
 ### 📚 My studies
-Final Year Computer Science at University College Dublin.
+BSc Computer Science at University College Dublin.
 
 ### 👩‍💻 Work
 - March - end of August 2021: Software Engineer Intern @ Dell Technologies
 - Upcoming: Frontend Software Engineer @ Hubspot
 
 
-### 🔨 What I am currently working on
-Completing my degree and improving coding skills.
+### 🔨 What I am currently up to
+Taking a well-deserved screen break👩‍💻.
 
-### 🖥️ Technologies I've enjoyed working with and/or using
+### 🖥️ Technologies I've enjoyed working with and/or using and/or touched on
 <p float="left">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -41,6 +41,3 @@ Completing my degree and improving coding skills.
 
 ### 📱 Social
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andra-antal-berbecaru/)
-
-### 🎉 Wrapping up
-I want to continue to learn and improve on my software engineering skills. I am working hard to better myself as an engineer so that I can provide true impact to a company. I'm also looking forward to completing my degree, I need a bit of a screen break 😄
