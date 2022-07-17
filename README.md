@@ -3,7 +3,7 @@ BSc Computer Science at University College Dublin.
 
 ### 👩‍💻 Work
 - March - end of August 2021: Software Engineer Intern @ Dell Technologies
-- Upcoming: Frontend Software Engineer @ Hubspot
+- Upcoming: Software Engineer @ Hubspot
 
 
 ### 🔨 What I am currently up to
