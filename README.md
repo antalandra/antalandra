@@ -3,11 +3,11 @@ BSc Computer Science at University College Dublin.
 
 ### 👩‍💻 Work
 - March - end of August 2021: Software Engineer Intern @ Dell Technologies
-- Upcoming: Software Engineer @ Hubspot
+- Current: Software Engineer @ Hubspot
 
 
 ### 🔨 What I am currently up to
-Taking a well-deserved screen break👩‍💻.
+Settling into my HubSpot role💻.
 
 ### 🖥️ Technologies I've enjoyed working with and/or using and/or touched on
 <p float="left">
@@ -36,8 +36,9 @@ Taking a well-deserved screen break👩‍💻.
 </p>
 
 ### 🌱 Some of my current interests
+* Dressmaking
+* Русский язык
 * Roller skating
-* Sustainable fashion
 
 ### 📱 Social
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andra-antal-berbecaru/)
