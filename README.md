@@ -9,6 +9,7 @@ BSc Computer Science at University College Dublin.
 * CLO3D
 * Fashion Design
 * Русский
+* Blender
 
 ### 📱 Social
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andra-antal-berbecaru/)
