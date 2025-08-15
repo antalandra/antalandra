@@ -1,5 +1,6 @@
 ### 📚 My studies
-BSc Computer Science at University College Dublin.
+BSc Computer Science at University College Dublin
+Postgraduate Diploma at Fashion Design Academy (2023-Current)
 
 ### 👩‍💻 Work
 - 2021: Software Engineer Intern @ Dell Technologies
@@ -13,6 +14,7 @@ BSc Computer Science at University College Dublin.
 * Technical Design
 * Dressmaking
 * Русский & Other languages
+* Bouldering
 
 ### 📱 Social
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andra-antal-berbecaru/)
